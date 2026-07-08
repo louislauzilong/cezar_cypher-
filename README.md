@@ -1,11 +1,6 @@
 # Caesar Cipher 🔐
 
 A simple Caesar cipher project built for fun (with help from a friend).
-
-![Python](https://img.shields.io/badge/language-Python-blue)
-![Status](https://img.shields.io/badge/status-Learning%20Project-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
-
 ## 📖 Overview
 This project implements the **Caesar cipher**, one of the most classic encryption techniques.  
 It works by shifting each letter in a message by a fixed number of positions in the alphabet.
